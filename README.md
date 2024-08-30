@@ -2,8 +2,8 @@
 
 ##  About this project
 
-LockThings é um aplicativo que registra e verifica tags NFC no seu Smartphone
-
+LockThings is an app that records and verifies NFC tags on your smartphone.
+ 
 ### Technologies
 <p display="inline-block">
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" alt="kotlin-logo"/>
